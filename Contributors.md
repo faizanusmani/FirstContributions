@@ -13,6 +13,7 @@
 - [SwatBros]
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - [John Poulos]
+- [Faizan Usmani]
 - [sunil jain]
 - [Gladys]
   [Okeagu Onyekachi](https://github.com/aeronye)
